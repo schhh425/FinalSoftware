@@ -6,7 +6,7 @@ python 3.x
 1. matplotlib
 2. PyQt5
 ## How to run
-run figure.py
+run example.py OR figure.py 
 ## Unpredictable problem and solution
 Sometimes after clicking yes in the first message window, the window does not disappear and the main window does not appear. A solution is to click the Python application icon in the Dock, and the software can run normally.
 ## How to close
